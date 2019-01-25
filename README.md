@@ -5,8 +5,6 @@ Prends d'abord quelques minutes pour lire la documentation
 
 [MySQL et les bases de données](https://docs.google.com/presentation/d/1yXQz5dMMDkdSu5eBOG7YS2UH2uWyg5vJmU0kJt6YR6Q/edit#slide=id.g35f391192_00)
 
-## Les syntaxes SQL
-
 Pour manipuler les bases de données, tu effectueras essentiellement 4 types d'opérations : **CRUD**.
 
 1. Create : ajouter une rangée à ta table.
@@ -14,7 +12,7 @@ Pour manipuler les bases de données, tu effectueras essentiellement 4 types d'o
 1. Update : modifier l'information stockée sur une rangée.
 1. Delete : effacer une rangée.
 
-### Parcours
+## Parcours
 
 1. Read : [**SELECT**](https://github.com/Anxium/exercice-sql/blob/dev/Parcours/select.md)
 1. Create : **INSERT INTO**
