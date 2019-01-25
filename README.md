@@ -16,7 +16,7 @@ Pour manipuler les bases de données, tu effectueras essentiellement 4 types d'o
 
 ### Parcours
 
-1. Read : [**SELECT**]()
+1. Read : [**SELECT**](https://github.com/Anxium/exercice-sql/blob/dev/Parcours/select.md)
 1. Create : **INSERT INTO**
 1. Update : **UPDATE**
 1. Delete : **DELETE FROM**
