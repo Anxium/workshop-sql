@@ -31,6 +31,6 @@ VALUES
 
 Toujours avec ce [lien](https://www.db-fiddle.com/f/72RoqENfdHHP6fHYNczPzW/2).
 
-Ajoute ton jeu vidéo préféré à la table jeu vidéo.
+Ajoute ton jeu vidéo préféré à la table jeuxvidéo.
 
 Félicitations, tu peux continuer ton chemin vers le [**UPDATE**](https://github.com/Anxium/exercice-sql/blob/dev/Parcours/update.md)
