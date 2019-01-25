@@ -65,7 +65,7 @@ Par exemple:
 
 ## Première sérié d'exercice.
 
-Rend toi sur ce [**lien**](https://www.db-fiddle.com/f/72RoqENfdHHP6fHYNczPzW/1) pour jouer avec les SELECT
+Rend toi sur ce [**lien**](https://www.db-fiddle.com/f/72RoqENfdHHP6fHYNczPzW/1) pour jouer avec les **SELECT**
 
 Retourne un tableau contenant:
 
@@ -114,5 +114,5 @@ Rend toi à nouveau sur ce [**lien**](https://www.db-fiddle.com/f/72RoqENfdHHP6f
 
 Bien joué ! Tu as terminé les exercices de SELECT.
 
-Continue ton parcours avec les [INSERT INTO](...)
+Continue ton parcours avec les [**INSERT INTO**](https://github.com/Anxium/exercice-sql/blob/dev/Parcours/insertinto.md)
 
