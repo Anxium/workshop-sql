@@ -41,10 +41,12 @@ try
 catch(Exception $e)
 {
 	// En cas d'erreur, on affiche un message et on arrête tout
-    die('Erreur : '.$e->getMessage());
+    	die('Erreur : '.$e->getMessage());
 }
 ```
 
 On utilise *Try* et *Catch* pour vérifier les erreurs.
 
 ### Parcours PDO
+
+coming soon...
