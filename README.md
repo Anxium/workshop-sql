@@ -29,7 +29,7 @@ PDO (**P**hp **D**ata **O**bject) est utilisé pour se connecter à une base de 
 
 Plus d'infos [ici](http://php.net/manual/fr/book.pdo.php)
 
-### Syntaxe PDO
+### Se connecter à la base de donnée
 
 ```PHP
 <?php
