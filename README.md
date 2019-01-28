@@ -40,8 +40,9 @@ try
 }
 catch(Exception $e)
 {
-	// En cas d'erreur, on affiche un message et on arrête tout
-    	die('Erreur : '.$e->getMessage());
+	// En cas d'erreur, on annule la transaction et on affiche l'erreur
+	$bdd->Rollback();
+	echo 'Erreur : ' $e->getMessage();
 }
 ```
 
