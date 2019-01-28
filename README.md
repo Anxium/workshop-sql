@@ -14,10 +14,10 @@ Pour manipuler les bases de données, tu effectueras essentiellement 4 types d'o
 
 ## Parcours SQL
 
-1. Read : [**SELECT**](https://github.com/Anxium/exercice-sql/blob/dev/Parcours/select.md)
-1. Create : [**INSERT INTO**](https://github.com/Anxium/exercice-sql/blob/dev/Parcours/insertinto.md)
-1. Update : [**UPDATE**](https://github.com/Anxium/exercice-sql/blob/dev/Parcours/update.md)
-1. Delete : [**DELETE FROM**](https://github.com/Anxium/exercice-sql/blob/dev/Parcours/delete.md)
+1. Read : [**SELECT**](https://github.com/Anxium/exercice-sql/blob/master/Parcours/select.md)
+1. Create : [**INSERT INTO**](https://github.com/Anxium/exercice-sql/blob/master/Parcours/insertinto.md)
+1. Update : [**UPDATE**](https://github.com/Anxium/exercice-sql/blob/master/Parcours/update.md)
+1. Delete : [**DELETE FROM**](https://github.com/Anxium/exercice-sql/blob/master/Parcours/delete.md)
 
 ## Introduction PDO
 
@@ -45,9 +45,19 @@ catch(Exception $e)
 	echo 'Erreur : ' $e->getMessage();
 }
 ```
+Documentation pour [**se connecter avec PDO**](http://php.net/manual/fr/pdo.connections.php)
 
 On utilise *Try* et *Catch* pour vérifier les erreurs.
 
 ### Parcours PDO
 
-coming soon...
+Pour l'exercice suivant vous devez télécharger le fichier [**team.sql**](https://github.com/Anxium/exercice-sql/blob/master/PDO/team.sql)
+
+#### Etape pour réaliser l'exercice
+
+1. Importer la base de donnée **team.sql** dans votre PhpMyAdmin.
+1. Se connecter à la base de donnée avec PDO (comme vu précédemment)
+1. Afficher toutes les données de la base de donnée
+1. Les requêtes préparées pour insérer des données dans la base de données
+
+

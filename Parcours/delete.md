@@ -28,4 +28,4 @@ Supprime un jeu vidéo de la table jeuxvidéo.
 
 Félicitations, tu as suivi tout le parcours de base pour SQL, tu maîtrises maintenant le pouvoir du **CRUD**.
 
-[**Continue ton apprentissage**](https://github.com/Anxium/exercice-sql/tree/dev)
+[**Continue ton apprentissage**](https://github.com/Anxium/exercice-sql/tree/master)
