@@ -55,9 +55,6 @@ Pour l'exercice suivant vous devez télécharger le fichier [**team.sql**](https
 
 #### Etape pour réaliser l'exercice
 
-1. Importer la base de donnée **team.sql** dans votre PhpMyAdmin.
-1. Se connecter à la base de donnée avec PDO (comme vu précédemment)
-1. Afficher toutes les données de la base de donnée
-1. Les requêtes préparées pour insérer des données dans la base de données
+coming soon...
 
 
