@@ -2,7 +2,7 @@
 ## Première étape : récupérer les données 
 
 ```PHP
-$resultat = $bd->query('SELECT * FROM team');
+$resultat = $bdd->query('SELECT * FROM team');
 ```
 
 Le contenu de la BDD est stocké sous forme d'objet dans la variable $resultat.
