@@ -41,10 +41,15 @@ try
 ### Doc
 
 PDO::beginTransaction -> http://php.net/manual/fr/pdo.begintransaction.php
-PDO::prepare -> http://php.net/manual/fr/pdo.prepare.php
-PDO::execute -> http://php.net/manual/fr/pdostatement.execute.php
-PDO::exec -> http://php.net/manual/fr/pdo.exec.php
-PDO::closeCursor -> http://php.net/manual/fr/pdostatement.closecursor.php
-PDO::commit -> http://php.net/manual/fr/pdo.commit.php
-PDO::rollback -> http://php.net/manual/fr/pdo.rollback.php
 
+PDO::prepare -> http://php.net/manual/fr/pdo.prepare.php
+
+PDO::execute -> http://php.net/manual/fr/pdostatement.execute.php
+
+PDO::exec -> http://php.net/manual/fr/pdo.exec.php
+
+PDO::closeCursor -> http://php.net/manual/fr/pdostatement.closecursor.php
+
+PDO::commit -> http://php.net/manual/fr/pdo.commit.php
+
+PDO::rollback -> http://php.net/manual/fr/pdo.rollback.php
