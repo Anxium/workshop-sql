@@ -31,7 +31,8 @@ Pour terminer le traitement de la requête et libérer la connexion:
 $resultat->closeCursor();
 ```
 
-#### Doc
+
+### Doc
 
 PDO::Query -> http://php.net/manual/fr/pdo.query.php
 
