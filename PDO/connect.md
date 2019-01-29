@@ -23,3 +23,7 @@ Pour vous connecter vous aurez besoin de:
 Documentation pour [**se connecter avec PDO**](http://php.net/manual/fr/pdo.connections.php)
 
 On utilise *Try* et *Catch* pour vérifier les erreurs.
+
+## Exercice
+
+1. Se connecter à sa base de donnée, et afficher un message si la connexion s'effectue avec succès.
