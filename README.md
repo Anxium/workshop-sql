@@ -35,7 +35,7 @@ Pour l'exercice suivant vous devez télécharger le fichier [**team.sql**](https
 
 #### Exercice à réaliser
 
-1. Importer la base de donnée **team.sql** dans votre PhpMyAdmin.
+1. Importer la base de donnée [**team.sql**](https://github.com/Anxium/exercice-sql/blob/master/team.sql) dans votre PhpMyAdmin.
 1. [**Se connecter**](https://github.com/Anxium/exercice-sql/blob/master/PDO/connect.md) à la base de donnée avec PDO.
 1. [**Afficher**](https://github.com/Anxium/exercice-sql/blob/master/PDO/fetch.md) toutes les données de la base de donnée.
 1. Les [**requêtes préparées**](https://github.com/Anxium/exercice-sql/blob/master/PDO/prepare.md) pour insérer des données dans la base de données.
