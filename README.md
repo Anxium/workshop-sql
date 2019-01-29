@@ -41,3 +41,11 @@ Pour l'exercice suivant vous devez télécharger le fichier [**team.sql**](https
 1. Les [**requêtes préparées**](https://github.com/Anxium/exercice-sql/blob/master/PDO/prepare.md) pour insérer des données dans la base de données.
 
 Une fois ceci assimilé, vous pouvez commencer le TP ci-dessous. Sinon, recommencez les exercices jusqu'à bien comprendre.
+
+## TP sur la mise en commun des connaissances acquises
+
+1. Créer une table "todolist" dans votre base de donnée via PhpMyAdmin avec 3 colonnes : Un ID qui s'auto-incrémente, une tâche et un booléen false de base.
+1. Créer un fichier PHP qui sera capable d'afficher votre todolist si des tâches sont présente, sinon dire qu'il n'y aucune tâche.
+1. Dans ce même fichier PHP, créer un formulaire qui vous permettra par la suite d'ajouter, modifier ou supprimer une tâche.
+1. Dans des fichiers séparés, insérez votre traitement de requête afin que le formulaire soit géré.
+1. Mettre tout ceci en forme avec CSS (et AJAX pour les plus fort 😈), puis l'envoyez à vos collègues sur Ryver !
