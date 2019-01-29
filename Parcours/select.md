@@ -63,7 +63,7 @@ Par exemple:
 - "qui termine par chaine_de_caractères". `LIKE '%Er' : tout mot terminant par "Er"`,
 - ou "qui contient cette chaine_de_caractères". `LIKE '%Er%' : tout mot contenant "Er"`.
 
-## Première sérié d'exercice.
+## Première série d'exercice.
 
 Rend toi sur ce [**lien**](https://www.db-fiddle.com/f/72RoqENfdHHP6fHYNczPzW/1) pour jouer avec les **SELECT**
 
