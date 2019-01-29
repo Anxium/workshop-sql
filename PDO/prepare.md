@@ -17,7 +17,7 @@ try
     ");
 
     //Execute la requête
-    $push->execute(array(':promo' => 'mapromo', ':firstname' => 'monprenom', ':lastname' => 'monnom', ':gender: => 'M', ':birthdate' => 'mybirthdate', ':age' => 'myage', ':github' => 'mygithub'));
+    $push->execute(array(':promo' => 'mapromo', ':firstname' => 'monprenom', ':lastname' => 'monnom', ':gender' => 'M', ':birthdate' => 'mybirthdate', ':age' => 'myage', ':github' => 'mygithub'));
 
 	// Ferme la transaction
     $push->closeCursor();
