@@ -29,26 +29,6 @@ PDO (**P**hp **D**ata **O**bject) est utilisé pour se connecter à une base de 
 
 Plus d'infos [ici](http://php.net/manual/fr/book.pdo.php)
 
-### Se connecter à la base de donnée
-
-```PHP
-<?php
-try
-{
-	// On se connecte à MySQL
-	$bdd = new PDO('mysql:host=localhost;dbname=becode;charset=utf8', 'root', 'MOTDEPASSE');
-}
-catch(Exception $e)
-{
-	// En cas d'erreur, on annule la transaction et on affiche l'erreur
-	$bdd->Rollback();
-	echo 'Erreur : ' $e->getMessage();
-}
-```
-Documentation pour [**se connecter avec PDO**](http://php.net/manual/fr/pdo.connections.php)
-
-On utilise *Try* et *Catch* pour vérifier les erreurs.
-
 ### Parcours PDO
 
 Pour l'exercice suivant vous devez télécharger le fichier [**team.sql**](https://github.com/Anxium/exercice-sql/blob/master/PDO/team.sql)
@@ -56,8 +36,8 @@ Pour l'exercice suivant vous devez télécharger le fichier [**team.sql**](https
 #### Etape pour réaliser l'exercice
 
 1. Importer la base de donnée **team.sql** dans votre PhpMyAdmin.
-1. Se connecter à la base de donnée avec PDO (comme vu précédemment)
-1. Afficher toutes les données de la base de donnée
-1. Les requêtes préparées pour insérer des données dans la base de données
+1. [**Se connecter**](https://github.com/Anxium/exercice-sql/blob/master/PDO/connect.md) à la base de donnée avec PDO.
+1. [**Afficher**](https://github.com/Anxium/exercice-sql/blob/master/PDO/fetch.md) toutes les données de la base de donnée.
+1. Les requêtes préparées pour insérer des données dans la base de données.
 
 
