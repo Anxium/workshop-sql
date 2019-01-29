@@ -42,5 +42,11 @@ Pour l'exercice suivant vous devez télécharger le fichier [**team.sql**](https
 
 Une fois ceci assimilé, vous pouvez commencer le TP ci-dessous. Sinon, recommencez les exercices jusqu'à bien comprendre.
 
+## TP sur la mise en commun des connaissances
 
+1. Créer une table "todolist" dans votre base de donnée via PhpMyAdmin avec 3 colonnes : Un ID qui s'auto-incrémente, une tâche et un booléen.
+1. Créer un fichier PHP qui sera capable d'afficher votre todolist si des tâches sont présente, sinon dire que la BDD est vide.
+1. Dans ce même fichier PHP, créer un formulaire qui vous permettra par la suite d'ajouter, modifier ou supprimer une tâche.
+1. Dans des fichiers séparés, mettez votre traitement de requête afin que le formulaire soit géré.
+1. Mettre tout ceci en forme avec CSS (et AJAX pour les plus fort 😈), puis l'envoyez à vos collègues sur Ryver !
 
