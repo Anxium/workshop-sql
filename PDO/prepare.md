@@ -32,5 +32,4 @@ try
 
 ## Exercice
 
-- Afficher toutes les données dans un tableau Html.
 - Creer un formulaire pour envoyer des données dans la base de données.
