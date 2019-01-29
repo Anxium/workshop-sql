@@ -1,5 +1,6 @@
 # Les requêtes préparées
 
+Exemple :
 
 ```PHP
 try
@@ -37,6 +38,8 @@ try
 - Créer une requête préparée pour ajouter des données qui s'effectue simplement quand on charge la page dans un premier temps, avec un message de succès. (Et Vérifier dans sa bdd si c'est ajouté)
 
 - Créer une requête préparée pour UPDATE les données ajoutée précédemment, avec un message de succès. (Et Vérifier)
+
+- Créer une requête préparée pour DELETE les données ajoutée précédemment, avec un message de succès. (Et Vérifier)
 
 ### Doc
 
