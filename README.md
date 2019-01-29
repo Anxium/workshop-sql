@@ -33,11 +33,14 @@ Plus d'infos [ici](http://php.net/manual/fr/book.pdo.php)
 
 Pour l'exercice suivant vous devez télécharger le fichier [**team.sql**](https://github.com/Anxium/exercice-sql/blob/master/PDO/team.sql)
 
-#### Etape pour réaliser l'exercice
+#### Exercice à réaliser
 
 1. Importer la base de donnée **team.sql** dans votre PhpMyAdmin.
 1. [**Se connecter**](https://github.com/Anxium/exercice-sql/blob/master/PDO/connect.md) à la base de donnée avec PDO.
 1. [**Afficher**](https://github.com/Anxium/exercice-sql/blob/master/PDO/fetch.md) toutes les données de la base de donnée.
 1. Les [**requêtes préparées**](https://github.com/Anxium/exercice-sql/blob/master/PDO/prepare.md) pour insérer des données dans la base de données.
+
+Une fois ceci assimilé, vous pouvez commencer le TP ci-dessous. Sinon, recommencez les exercices jusqu'à bien comprendre.
+
 
 
