@@ -27,8 +27,8 @@ try
 
 } catch(Exception $e) {
     
-    $bdd->rollback();
     echo 'Erreur : ' . $e->getMessage();
+    $bdd->rollback();
 
 }
 ```
