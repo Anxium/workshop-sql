@@ -114,5 +114,5 @@ Rend toi à nouveau sur ce [**lien**](https://www.db-fiddle.com/f/72RoqENfdHHP6f
 
 Bien joué ! Tu as terminé les exercices de SELECT.
 
-Continue ton parcours avec les [**INSERT INTO**](https://github.com/Anxium/exercice-sql/blob/master/Parcours/insertinto.md)
+Continue ton parcours avec les [**INSERT INTO**](https://github.com/Anxium/workshop-sql/blob/master/Parcours/insertinto.md)
 

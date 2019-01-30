@@ -33,4 +33,4 @@ Toujours avec ce [lien](https://www.db-fiddle.com/f/72RoqENfdHHP6fHYNczPzW/2).
 
 Ajoute ton jeu vidéo préféré à la table jeuxvidéo.
 
-Félicitations, tu peux continuer ton chemin vers le [**UPDATE**](https://github.com/Anxium/exercice-sql/blob/master/Parcours/update.md)
+Félicitations, tu peux continuer ton chemin vers le [**UPDATE**](https://github.com/Anxium/workshop-sql/blob/master/Parcours/update.md)

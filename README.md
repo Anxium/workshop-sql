@@ -14,10 +14,10 @@ Pour manipuler les bases de données, tu effectueras essentiellement 4 types d'o
 
 ## Parcours SQL
 
-1. Read : [**SELECT**](https://github.com/Anxium/exercice-sql/blob/master/Parcours/select.md)
-1. Create : [**INSERT INTO**](https://github.com/Anxium/exercice-sql/blob/master/Parcours/insertinto.md)
-1. Update : [**UPDATE**](https://github.com/Anxium/exercice-sql/blob/master/Parcours/update.md)
-1. Delete : [**DELETE FROM**](https://github.com/Anxium/exercice-sql/blob/master/Parcours/delete.md)
+1. Read : [**SELECT**](https://github.com/Anxium/workshop-sql/blob/master/Parcours/select.md)
+1. Create : [**INSERT INTO**](https://github.com/Anxium/workshop-sql/blob/master/Parcours/insertinto.md)
+1. Update : [**UPDATE**](https://github.com/Anxium/workshop-sql/blob/master/Parcours/update.md)
+1. Delete : [**DELETE FROM**](https://github.com/Anxium/workshop-sql/blob/master/Parcours/delete.md)
 
 ## Introduction PDO
 
@@ -31,14 +31,14 @@ Plus d'infos [ici](http://php.net/manual/fr/book.pdo.php)
 
 ### Parcours PDO
 
-Pour l'exercice suivant vous devez télécharger le fichier [**team.sql**](https://github.com/Anxium/exercice-sql/blob/master/PDO/team.sql)
+Pour l'exercice suivant vous devez télécharger le fichier [**team.sql**](https://github.com/Anxium/workshop-sql/blob/master/PDO/team.sql)
 
 #### Exercice à réaliser
 
 1. Importer la base de donnée **team.sql** dans votre PhpMyAdmin.
-1. [**Se connecter**](https://github.com/Anxium/exercice-sql/blob/master/PDO/connect.md) à la base de donnée avec PDO.
-1. [**Afficher**](https://github.com/Anxium/exercice-sql/blob/master/PDO/fetch.md) toutes les données de la base de donnée.
-1. Les [**requêtes préparées**](https://github.com/Anxium/exercice-sql/blob/master/PDO/prepare.md) pour insérer des données dans la base de données.
+1. [**Se connecter**](https://github.com/Anxium/workshop-sql/blob/master/parcours/PDO/connect.md) à la base de donnée avec PDO.
+1. [**Afficher**](https://github.com/Anxium/workshop-sql/blob/master/parcours/PDO/fetch.md) toutes les données de la base de donnée.
+1. Les [**requêtes préparées**](https://github.com/Anxium/workshop-sql/blob/master/parcours/PDO/prepare.md) pour insérer des données dans la base de données.
 
 Une fois ceci assimilé, vous pouvez commencer le TP ci-dessous. Sinon, recommencez les exercices jusqu'à bien comprendre.
 

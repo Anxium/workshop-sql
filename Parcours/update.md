@@ -28,4 +28,4 @@ Toujours avec ce [lien](https://www.db-fiddle.com/f/72RoqENfdHHP6fHYNczPzW/2).
 
 Modifie un jeu vidéo de la table jeuxvidéo.
 
-Félicitations, tu peux continuer ton chemin vers le [**DELETE FROM**](https://github.com/Anxium/exercice-sql/blob/master/Parcours/delete.md)
+Félicitations, tu peux continuer ton chemin vers le [**DELETE FROM**](https://github.com/Anxium/workshop-sql/blob/master/Parcours/delete.md)
